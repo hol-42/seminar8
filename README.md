@@ -18,7 +18,7 @@ nvm install stable
 Folgendes ist nicht notwendig, wenn man das Repo runtergeladen hat ...
 ```bash
 # Installieren der Karma Module mit --save-dev werden sie in package.json abgespeichert
-npm install karma karma-phantojs-launcher karma-jasmine jasmine-core --save-dev
+npm install karma karma-phantomjs-launcher karma-jasmine jasmine-core --save-dev
 ```
 ... dann sollte man aber `node_modules` füllen mit
 ```bash
